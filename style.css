@@ -6617,7 +6617,7 @@ div.tp-bullet.selected, div.tp-bullet:hover {
 }
 .top-v5 {
     background-color: #0E0A31;
-    background-image: url(https://via.placeholder.com/1920x719.png);
+    background-image: url(./images/bg-banner-home5.png);
     background-position: bottom center;
     background-repeat: no-repeat;
     padding: 265px 0 170px 0;
@@ -6815,7 +6815,7 @@ div.tp-bullet.selected, div.tp-bullet:hover {
 }
 .clients-v5 {
     background-color: #211F3B;
-    background-image: url(https://via.placeholder.com/1920x755.png);
+    background-image: url(https://images.unsplash.com/photo-1568952433726-3896e3881c65?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1920&q=80);
     background-position: bottom center;
     background-repeat: no-repeat;
     background-size: cover;
