@@ -3490,7 +3490,7 @@ object {
 }
 .ot-heading > span {
   font-size: 14px;
-  font-weight: 800;
+  font-weight: 600;
   color: #7141b1;
   position: relative;
   display: inline-block;
@@ -4885,7 +4885,7 @@ object {
   position: absolute;
   right: 0;
   bottom: 0;
-  color: #fff;
+  color: rgba(223, 223, 223, 0.7);
 }
 
 .team-wrap {
@@ -6740,12 +6740,13 @@ div.tp-bullet.selected, div.tp-bullet:hover {
 }
 .about-v5 {
     background-color: #211F3B;
-    background-image: url(https://via.placeholder.com/321x447.png);
+    background-image: url(./images/bg-art-5.png);
     background-repeat: no-repeat;
     padding: 130px 0 120px 0;
 }
 .overlay-image-about5 {
-    background-image: url(https://via.placeholder.com/322x444.png);
+    /* background-image: url(https://via.placeholder.com/322x444.png); */
+    background-image: url(./images/overlay-image-about5.png);
     background-position: bottom right;
     background-repeat: no-repeat;
     background-color: transparent;
@@ -6759,7 +6760,7 @@ div.tp-bullet.selected, div.tp-bullet:hover {
     margin-bottom: 30px;
 }
 .left-v5 .ot-heading span {
-    color: #8E88B8;
+    color: #f7f7f7;
 }
 .left-v5 h2 {
     color: #fff;
